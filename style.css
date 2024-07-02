@@ -19,6 +19,7 @@ header h1{
 main{
  display: flex;
  flex-direction: column;
+ padding: 1rem;
 }
 
 main p, h2{
