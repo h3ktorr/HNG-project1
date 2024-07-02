@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
 body{
  margin: 0;
  padding: 0;
  box-sizing: border-box;
  background-color: rgb(64, 52, 76);
+ font-family: 'itim';
  display: flex;
  flex-direction: column;
  align-items: center;
